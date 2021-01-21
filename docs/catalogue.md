@@ -1,6 +1,6 @@
 # 国学书籍目录
  
-![Image text](./qr.png)
+![Image text](../qr.png)
 
 ### 经部·十三经-(13)
 
