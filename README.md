@@ -2,7 +2,7 @@
 
 github地址：<https://github.com/acehi/chinese-ancient-books-catalogue>
  
-![Image text](./qr.png)
+![Image text](./../qr.png)
 
 ### 经部·十三经-(13)
 
