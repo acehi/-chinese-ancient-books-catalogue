@@ -2,6 +2,7 @@
 
 github地址：<https://github.com/acehi/chinese-ancient-books-catalogue>
 
+进入读书群请加管理员：Astalot
 ![Image text](./../qr.png)
 
 
